@@ -252,3 +252,8 @@ Outstanding, unrelated to engineering:
 ---
 
 *Rev A · Paper baseline · No item herein has been built or tested.*
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/Teslabotspacecruiser/wiki](https://github.com/fitzyracing1/Teslabotspacecruiser/wiki)
